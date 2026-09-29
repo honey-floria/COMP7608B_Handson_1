@@ -1,0 +1,10 @@
+{
+  "model": "llama3.2:1b",
+  "base_url": "http://127.0.0.1:11434",
+  "timeout_s": 120,
+  "output_mode": "schema",
+  "num_ctx": 2048,
+  "num_predict": 96,
+  "cpu_only": true,
+  "think": null
+}
